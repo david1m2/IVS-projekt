@@ -1,0 +1,15 @@
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\matematicka.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\matematicka.pdb
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\matematicka.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\bin\Debug\matematicka.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

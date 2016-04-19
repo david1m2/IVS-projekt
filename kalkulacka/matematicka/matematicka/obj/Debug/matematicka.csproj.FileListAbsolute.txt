@@ -1,0 +1,16 @@
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\bin\Debug\matematicka.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\bin\Debug\matematicka.pdb
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\obj\Debug\matematicka.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\obj\Debug\matematicka.pdb
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\bin\Debug\UnitTestProject1.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\bin\Debug\UnitTestProject1.pdb
+C:\Users\DAVID\Documents\Visual Studio 2015\Projects\Calculator\matematicka\matematicka\obj\Debug\matematicka.csprojResolveAssemblyReference.cache
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\bin\Debug\matematicka.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\bin\Debug\matematicka.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\obj\Debug\matematicka.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\obj\Debug\matematicka.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\bin\Debug\UnitTestProject1.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\bin\Debug\UnitTestProject1.pdb
+C:\Users\Markétička\Desktop\mm_files\Calculator\matematicka\matematicka\obj\Debug\matematicka.csprojResolveAssemblyReference.cache
