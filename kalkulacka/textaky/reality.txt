@@ -1,0 +1,29 @@
+-------Realita:--------
+-----Fellow Fitty------
+-----------------------
+
+Ako tım sme sa snaili dodra všetky termíny avšak nepodarilo sa nám to.
+Po dohode všetkıch èlenov tımu sa termíny posunuli.
+	
+
+	Programová èas?				8.4.2016-14.4.2016
+
+	Grafické u?ivateské rozhranie		8.4.2016-12.4.2016
+
+	Matematická knihovna			8.4.2016-10.4.2016
+	
+	Makefile				??????????????????
+
+	Programová dokumentace			14.4.2016-18.4.2016
+
+	U?ivatelská dokumentace			15.4.2016-17.4.2016
+	
+	Debugging				13.4.2016-13.4.2016
+
+	Testovanie				10.4.2016-15.4.2016
+
+	Instalátor(Odinstalátor)		15.4.2016-18.4.2016
+
+	MockUp					10.4.2016-18.4.2016
+
+	Doladení detailov			20.4.2016-23.4.2016
