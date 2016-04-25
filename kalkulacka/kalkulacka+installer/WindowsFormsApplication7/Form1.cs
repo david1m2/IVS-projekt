@@ -31,9 +31,11 @@ namespace WindowsFormsApplication7
         double vysledok = 0; // vysledok
         matematicka.Class1 newObject = new matematicka.Class1(); // inicializace mat.knihovny
 
+        /// <summary>
+        /// Metoda vyčistí textBox a zajistí aby byla zadána nejvýše jedna desetinná čárka.
+        /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
-
             if (textBox1.Text == "0")
             {
                 textBox1.Clear(); // ak je tam 0 vycistime textbox
@@ -56,10 +58,12 @@ namespace WindowsFormsApplication7
             else
             {
                 textBox1.Text = textBox1.Text + button.Text;
-            }
-            
+            } 
         }
 
+        /// <summary>
+        /// Metoda nastaví počáteční příznaky jednotlivých operací na default.
+        /// </summary>
         private void button17_Click(object sender, EventArgs e) // clearovaci button
             // nastavi vsetky priznaky operaci na default
         {
@@ -79,6 +83,10 @@ namespace WindowsFormsApplication7
             label1.Text = "";
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace sčítání na true, 
+        /// načte první číslo pro sčítání a zobrazí jej spolu se znakem '+' do labelu.
+        /// </summary>
         private void button11_Click(object sender, EventArgs e) // operace scitani , nastaveni priznakov a nacitanie prveho cisla
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -93,6 +101,10 @@ namespace WindowsFormsApplication7
             textBox1.Text = "0";           
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace odečítání na true, 
+        /// načte první číslo pro tuto operaci a zobrazí jej spolu se znakem '-' do labelu.
+        /// </summary>
         private void button12_Click(object sender, EventArgs e) // operace odcitani , nastaveni priznakov a nacitanie prveho cisla
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -102,11 +114,16 @@ namespace WindowsFormsApplication7
             operace_odcitani = true;
             test_comma = false;
             operand1 = Convert.ToDouble(textBox1.Text);
-            operand1 = Convert.ToDouble(textBox1.Text);
             label1.Text = textBox1.Text + "-";
             textBox1.Text = "0";
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace násobení na true, 
+        /// načte první číslo pro tuto operaci a zobrazí jej spolu se znakem '*' do labelu.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button13_Click(object sender, EventArgs e) // operace nasobeni , nastaveni priznakov a nacitanie prveho cisla
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -120,11 +137,14 @@ namespace WindowsFormsApplication7
             operace_nasobeni = true;
             test_comma = false;
             operand1 = Convert.ToDouble(textBox1.Text);
-            operand1 = Convert.ToDouble(textBox1.Text);
             label1.Text = textBox1.Text + "*";
             textBox1.Text = "0";
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace dělení na true, 
+        /// načte první číslo pro tuto operaci a zobrazí jej spolu se znakem '/' do labelu.
+        /// </summary>
         private void button14_Click(object sender, EventArgs e)  // operace deleni , nastaveni priznakov a nacitanie prveho cisla
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -138,11 +158,15 @@ namespace WindowsFormsApplication7
             operace_deleni = true;
             test_comma = false;
             operand1 = Convert.ToDouble(textBox1.Text);
-            operand1 = Convert.ToDouble(textBox1.Text);
             label1.Text = textBox1.Text + "/";
             textBox1.Text = "0";
         }
-
+        
+        /// <summary>
+        /// Metoda načte druhé číslo dané operace s nastaveným příznakem na true, vypíše jej spolu se znakem '=' 
+        /// do labelu a do textBoxu zobrazí výsledek dané operace.
+        /// Nakonec nastaví příznak dané operace na false.
+        /// </summary>
         private void button15_Click(object sender, EventArgs e) // rovna se , podla toho aky priznak je nacitany ,  vykona danu operaciu
         {
             test_comma = false;
@@ -205,6 +229,10 @@ namespace WindowsFormsApplication7
 
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace faktoriál na true 
+        /// Načte číslo pro tuto operaci, zobrazí jej spolu se znakem '!' do labelu a výsledek vypíše do textBoxu.
+        /// </summary>
         private void button18_Click(object sender, EventArgs e) // faktorial daneho nacitaneho cisla , priznaky a vypis
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -219,6 +247,11 @@ namespace WindowsFormsApplication7
             textBox1.Text = vysledok.ToString();
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace mocnina (pow) na true, 
+        /// načte číslo (základ) pro tuto operaci a zobrazí jej spolu se znakem '^' do labelu.
+        /// </summary>
+        /// <param name="sender"></param>
         private void button19_Click(object sender, EventArgs e) // nta mocnina " Funguje zaujimavo treba odskusat "
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -232,6 +265,10 @@ namespace WindowsFormsApplication7
             textBox1.Text = "0";
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace modulo (zbytej po celočíselném 
+        /// dělení) na true, načte první číslo pro tuto operaci a zobrazí jej spolu se znakem '%' do labelu.
+        /// </summary>
         private void button20_Click(object sender, EventArgs e) // zvysok po deleni , tzv. modulo
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -245,6 +282,10 @@ namespace WindowsFormsApplication7
             textBox1.Text = "0";
         }
 
+        /// <summary>
+        /// Metoda zabrání v zadání více znamének operace za sebou, nastaví příznak operace odmocniny (sqrt)
+        /// na true, načte první číslo pro tuto operaci a zobrazí jej spolu se znakem '√' do labelu.
+        /// </summary>
         private void button21_Click(object sender, EventArgs e) // nta odmocnina "odskusajte a pochopite jak funguje" 
         {
             if (operace_scitani == true || operace_odcitani == true || operace_deleni == true || operace_nasobeni == true || operace_pow == true || operace_faktorial == true || operace_sqrt == true || zvysok_del == true)
@@ -258,15 +299,20 @@ namespace WindowsFormsApplication7
             textBox1.Text = "0";
         }
 
+        /// <summary>
+        /// Metoda uzavře aplikaci na deném tlačítku.
+        /// </summary>
         private void Exit_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
+       
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {

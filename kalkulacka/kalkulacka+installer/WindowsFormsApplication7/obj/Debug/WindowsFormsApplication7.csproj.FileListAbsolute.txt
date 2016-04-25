@@ -60,3 +60,13 @@ C:\Users\DAVID\Desktop\kalkulacka\WindowsFormsApplication7\WindowsFormsApplicati
 C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
 C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
 C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\bin\Debug\matematicka.pdb
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\DAVID\Documents\GitHub\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\Nový priečinok (4)\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\DAVID\Desktop\Nový priečinok (4)\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\DAVID\Desktop\Nový priečinok (4)\IVS-projekt\kalkulacka\kalkulacka+installer\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
