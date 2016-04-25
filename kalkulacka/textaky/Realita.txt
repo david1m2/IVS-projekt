@@ -1,0 +1,68 @@
+-------Realita:--------
+-----Fellow Fitty------
+-----------------------
+
+Jako tým jsme se snažili dodržet všechny termíny, zpočátku se nám to dařilo, později začaly vznikat problémy kvůli návaznosti jednotlivých částí na sebe. Vzniklé problémy projekt zbržďovaly a ve výsledku byl projekt dokončen podstatně později, než jsme plánovali. 
+Dohodli jsme se také přerozdělit úlohy podle našeho zaměření a individuální zdatnosti v jednotlivých oblastech, abychom vývoj kalkulačky urychlili.
+
+- Stanovené termíny:
+-------------------------
+
+	Programová část						21.3.2016-25.3.2016
+
+	Grafické uživatelské rozhraní		21.3.2016-23.3.2016
+
+	Matematická knihovna				23.3.2016-25.3.2016
+	
+	Makefile							17.4.2016-24.4.2016
+
+	Programová dokumentace				07.4.2016-12.4.2016
+
+	Uživatelská dokumentace				09.4.2016-12.4.2016
+	
+	Debugging							17.4.2016-18.4.2016
+
+	Testování							10.4.2016-15.4.2016
+
+	Instalátor (Odinstalátor)			16.4.2016-18.4.2016
+
+	MockUp								17.4.2016-20.4.2016
+
+	Doladění detailů					20.4.2016-25.4.2016
+
+- Přidělení úloh:
+-------------------------
+
+	Programová část						Dávid Köteleš
+
+	Grafické uživatelské rozhraní		Markéta Jančová
+
+	Matematická knihovna				Kristýna Chytilová
+			
+	Makefile							Kristýna Chytilová
+
+	Programová dokumentace				Kateřina Karásková
+
+	Uživatelská dokumentace				Kateřina Karásková
+
+	Debugging							Dávid Köteleš
+
+	Testování							Markéta Jančová
+
+	Instalátor (Odinstalátor)			Dávid Köteleš
+
+	MockUp								Markéta Jančová
+
+- Komunikační kanály:
+-------------------------
+
+	Skype
+
+	Facebook
+
+	Email
+
+- Správa verzí:
+-------------------------
+
+	GIT
