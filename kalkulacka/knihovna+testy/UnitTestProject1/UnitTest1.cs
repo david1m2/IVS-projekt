@@ -1,12 +1,14 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using matematicka;
 
 namespace UnitTestProject1
 {
     [TestClass]
     public class UnitTest1
     {
-        // public double add(double FirstValue, double SecondValue)
+
+	// public double add(double FirstValue, double SecondValue)
         [TestMethod]
         public void add_test1()
         {
@@ -384,6 +386,72 @@ namespace UnitTestProject1
             double result = NewObject.odmocneni(20, 1);
             Assert.AreEqual(1, result);
         }
+	static void Main()
+	{
+			
+		 UnitTest1 NewObject = new UnitTest1();
+		 NewObject.odmocneni_test1();
+		 NewObject.odmocneni_test2();
+		 NewObject.odmocneni_test3();
+		 NewObject.odmocneni_test4();
+		 NewObject.odmocneni_test5();
+		 NewObject.odmocneni_test6();
+		 NewObject.odmocneni_test7();
+		 Console.WriteLine("test for root successful");
+		 
+		 NewObject.add_test1();
+		 NewObject.add_test2(); 
+		 NewObject.add_test3();
+		 NewObject.add_test4();
+		 NewObject.add_test5();
+		 Console.WriteLine("test for addition successful");
+		 
+		 NewObject.sub_test1();
+		 NewObject.sub_test2();
+		 NewObject.sub_test3();
+		 NewObject.sub_test4();
+		 NewObject.sub_test5();
+		 Console.WriteLine("test for subtraction successful");
+	
+		 NewObject.del_test2();
+		 NewObject.del_test3();
+		 NewObject.del_test4();
+		 NewObject.del_test5();
+		 NewObject.del_test6();
+		 NewObject.del_test7();
+		 NewObject.del_test8();
+		 NewObject.del_test9();
+		 NewObject.del_test10();
+		 NewObject.del_test11();
+		 Console.WriteLine("test for division successful");
+		 
+		 NewObject.nas_test1();
+		 NewObject.nas_test2();
+		 NewObject.nas_test3();
+		 NewObject.nas_test4();
+		 NewObject.nas_test5();
+		 NewObject.nas_test6();
+		 NewObject.nas_test7();
+		 NewObject.nas_test8();
+		 Console.WriteLine("test for multiplication successful");
+		 
+		 NewObject.PowerA_test1();
+		 NewObject.PowerA_test2();
+		 NewObject.PowerA_test4();
+		 NewObject.PowerA_test5();
+		 NewObject.PowerA_test6();
+		 NewObject.PowerA_test7();
+		 NewObject.PowerA_test8();
+		 NewObject.PowerA_test9();
+		 Console.WriteLine("test for power successful");
+		 
+		 NewObject.modulo_test1();
+		 NewObject.modulo_test2();
+		 NewObject.modulo_test3();
+		 NewObject.modulo_test4();
+		 NewObject.modulo_test5();
+		 Console.WriteLine("test for modulo successful");
+	}
     }
 
 }
